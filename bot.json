@@ -1,5 +1,5 @@
 {
-  "main": "Pilotbot.js",
+  "main": "adrinerBOT",
   "option": {
     "apiLevel": 2,
     "useBabel": false,
