@@ -1,0 +1,13 @@
+{
+  "main": "Pilotbot.js",
+  "option": {
+    "apiLevel": 2,
+    "useBabel": false,
+    "targetMessengers": {
+      "com.facebook.orca": false
+    },
+    "scriptPower": true,
+    "offOnRuntimeError": false,
+    "optimization": 0
+  }
+}
